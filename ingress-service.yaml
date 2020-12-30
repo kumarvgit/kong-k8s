@@ -6,7 +6,7 @@ metadata:
     app: api
   annotations:
     kubernetes.io/ingress.class: kong
-    # konghq.com/plugins: my-basic-auth
+    konghq.com/plugins: my-basic-auth
 spec:
   rules:
     - host: api.gengo.dev
