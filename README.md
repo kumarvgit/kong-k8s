@@ -1,4 +1,4 @@
-# The project targets to create a basic authentication using Kong and k8s
+# The project targets to create a basic authentication using k8s and Kong
 
 ### Project Info
 * Author (GitHub ID)
