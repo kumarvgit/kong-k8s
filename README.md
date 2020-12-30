@@ -33,7 +33,7 @@
 * Browser
     * Authorization
         * in example harry:foo is thee secret so we need to pass "Authorization" header as "Basic   aGFycnk6Zm9v"
-            * e.g. ``` Authorizatio: Basic aGFycnk6Zm9v```
+            * e.g. ``` Authorization: Basic aGFycnk6Zm9v```
     * Host
         * in example host is ``` api.gengo.dev ```
             * ``` Host: api.gengo.dev```
